@@ -1,4 +1,4 @@
-name: stevelomprey
+name: lompreydesign
 favicon: null
 layout_spectrum: 0.1941
 typography_spectrum: 0.93594
@@ -22,7 +22,7 @@ color:
     - '#1b1603'
     - '#31bfc0'
     - '#fc4d1f'
-  brandStrength: 0.7095760183874518
+  brandStrength: 0.125
   lightness: 0.9739055340178311
   saturation: 0.13022208702750504
   rhythmicContrast: 0.7543174442835152
